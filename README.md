@@ -1,1 +1,1 @@
-<img src="./content.svg" alt="" />
+![Header Image](./content.svg)
