@@ -1,0 +1,24 @@
+<svg fill="none" viewBox="0 0 600 100" width="600" height="100" xmlns="http://www.w3.org/2000/01/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+					display: flex;
+					align-items: center;
+					justify-content: center;
+					height: 100px;
+					background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59);
+					border-radius: 10px;
+					color: white;
+					font-size: 32px;
+					font-weight: bold;
+					text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+				}
+			</style>
+			<div class="container">
+				Welcome to My GitHub Repo!
+			</div>
+		</div>
+	</foreignObject>
+</svg>
